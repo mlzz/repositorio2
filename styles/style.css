@@ -1,0 +1,12 @@
+body{
+  background-image: url("fondo.jpg");
+  background-repeat: repeat-y;
+}
+#meme{
+  text-align: center;
+}
+h1{
+  text-align: center;  
+font-family: 'Lobster', cursive;
+
+}
